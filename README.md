@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a prefinal year Student, persuing B.Tech in Civil Engineering. Apart from my acads I love Computer Science Stuff and Exploring them
+#### I am a prefinal year Student, persuing B.Tech in Civil Engineering. Apart from my academics, I love Computer Science Stuff and Exploring them
 
 
 - 🔭 I’m currently participating in Hackathons.
