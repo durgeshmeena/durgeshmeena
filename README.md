@@ -1,5 +1,6 @@
 
 ## Hi, there 👋
+<!-- <p style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);"> -->
 <br>
 <p align=center><img  src="https://user-images.githubusercontent.com/58581435/137250955-d7c5eaa5-12d7-4730-b1d8-ee71a5c62659.gif" width="80%"/></p>
 <p align="center">
@@ -10,7 +11,8 @@
 
 ---
 
-I am Durgesh Kumar Meena, currently pursuing my Bachelor of Technology 🎓 majoring in Civil Engineering from Indian Institute of Technology Guwahati. I am a tech enthusiast and passionate learner, apart from my acads I try to learn and exploring Computer Science Stuff 💻 . <br>
+<p style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);"> I am Durgesh Kumar Meena, currently pursuing my Bachelor of Technology 🎓 majoring in Civil Engineering from Indian Institute of Technology Guwahati. I am a tech enthusiast and passionate learner, apart from my acads I try to learn and exploring Computer Science Stuff 💻 . </p> 
+<br>
 
 ## Technologies ⚡ 
 
@@ -48,3 +50,7 @@ I am Durgesh Kumar Meena, currently pursuing my Bachelor of Technology 🎓 majo
   <img width=49% alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshmeena&theme=solarized-dark" />
   <img width=49% alt="Durgesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=durgeshmeena&show_icons=true&count_private=true&theme=radical"/>
 </p>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=durgeshmeena&theme=redical">
+</p>
+
