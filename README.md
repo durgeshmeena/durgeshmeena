@@ -59,9 +59,4 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&langs_count=8&hide=css,scss,less,ejs&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&theme=onedark) -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
 
