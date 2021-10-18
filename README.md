@@ -1,4 +1,4 @@
-
+<div  style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);">
 ## Hi, there 👋
 <!-- <p style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);"> -->
 <br>
@@ -11,7 +11,7 @@
 
 ---
 
-<p style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);"> I am Durgesh Kumar Meena, currently pursuing my Bachelor of Technology 🎓 majoring in Civil Engineering from Indian Institute of Technology Guwahati. I am a tech enthusiast and passionate learner, apart from my acads I try to learn and exploring Computer Science Stuff 💻 . </p> 
+<p> I am Durgesh Kumar Meena, currently pursuing my Bachelor of Technology 🎓 majoring in Civil Engineering from Indian Institute of Technology Guwahati. I am a tech enthusiast and passionate learner, apart from my acads I try to learn and exploring Computer Science Stuff 💻 . </p> 
 <br>
 
 ## Technologies ⚡ 
@@ -59,4 +59,4 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&langs_count=8&hide=css,scss,less,ejs&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&theme=onedark) -->
 
-
+</div>
