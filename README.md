@@ -1,4 +1,4 @@
-<div  style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);">
+
 ## Hi, there 👋
 <!-- <p style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);"> -->
 <br>
@@ -59,4 +59,3 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&langs_count=8&hide=css,scss,less,ejs&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&theme=onedark) -->
 
-</div>
