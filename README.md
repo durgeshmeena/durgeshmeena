@@ -11,7 +11,7 @@
 
 ---
 
-<p> I am Durgesh Kumar Meena, currently pursuing my Bachelor of Technology 🎓 majoring in Civil Engineering from Indian Institute of Technology Guwahati. I am a tech enthusiast and passionate learner, apart from my acads I try to learn and exploring Computer Science Stuff 💻 . </p> 
+<p>I am  <a href="https://durgeshmeena.github.io/">Durgesh Kumar Meena</a>, currently pursuing my Bachelor of Technology 🎓 majoring in Civil Engineering from Indian Institute of Technology Guwahati. I am a tech enthusiast and passionate learner, apart from my acads I try to learn and exploring Computer Science Stuff 💻 . </p> 
 <br>
 
 ## Technologies ⚡ 
