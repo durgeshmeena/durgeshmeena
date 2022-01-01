@@ -51,7 +51,7 @@
 </p>
 <p>
   <img width=54% alt="Durgesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=durgeshmeena&show_icons=true&count_private=true&theme=radical"/>
-  <img width=44% alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&hide=css,scss,less,jupyter%20notebook&theme=onedark" />
+  <img width=44% alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&hide=html,css,scss,less,jupyter%20notebook&theme=onedark" />
 </p>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=durgeshmeena&theme=redical">
