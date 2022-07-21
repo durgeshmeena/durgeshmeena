@@ -4,9 +4,11 @@
 <br>
 <p align=center><img  src="https://user-images.githubusercontent.com/58581435/137250955-d7c5eaa5-12d7-4730-b1d8-ee71a5c62659.gif" width="80%"/></p>
 <p align="center">
-  <img src="https://badges.pufler.dev/commits/monthly/durgeshmeena?logo=git" />  
-  <img src="https://badges.pufler.dev/repos/durgeshmeena?logo=gitbook"/>
-  <img src="https://badges.pufler.dev/visits/durgeshmeena/durgeshmeena?logo=eye"/> 
+  <!-- ![](https://komarev.com/ghpvc/?username=durgeshmeena) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=durgeshmeena" />  -->
+  <!-- <img src="https://badges.pufler.dev/commits/monthly/durgeshmeena?logo=git" />   -->
+  <!-- <img src="https://badges.pufler.dev/repos/durgeshmeena?logo=gitbook"/>
+  <!-- <img src="https://badges.pufler.dev/visits/durgeshmeena/durgeshmeena?logo=eye"/>  -->
 </p>
 
 ---
@@ -22,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Flask](https://img.shields.io/badge/flask-black?style=flat-square&logo=flask)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
