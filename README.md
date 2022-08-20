@@ -2,6 +2,7 @@
 ## Hi, there 👋
 <!-- <p style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);"> -->
 <br>
+
 <p align=center> <a href="https://durgeshmeena.github.io/" target="_blank"> <img  src="https://user-images.githubusercontent.com/58581435/137250955-d7c5eaa5-12d7-4730-b1d8-ee71a5c62659.gif" width="80%"/> </a> </p>
 <p align="center">
   <!-- ![](https://komarev.com/ghpvc/?username=durgeshmeena) -->
