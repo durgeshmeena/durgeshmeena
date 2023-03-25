@@ -40,9 +40,9 @@
 <br>
 
 
-- 🔭 I’m currently exploring Hackathons. <a href="https://mlh.io/events"> <img style="padding:5px;" align="center" alt="MLH" width="35px" src="https://organize.mlh.io/assets/logos/mlh-logo-color-d580e72af0779d58dca423a1f6646393209c874361afcbd12cf148ed72d27a1c.svg"/> </a>
-- 🌱 I’m currently learning Web Developement Stuff. <a href="https://reactjs.org/docs/create-a-new-react-app.html"><img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> </a>
-- 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships. <a href="https://hacktoberfest.digitalocean.com/"><img style="padding:5px;" align="center" alt="Hacktoberfest" width="35px" src="https://hacktoberfest.digitalocean.com/favicon.ico"/> </a>
+<!-- - 🔭 I’m currently exploring Hackathons. <a href="https://mlh.io/events"> <img style="padding:5px;" align="center" alt="MLH" width="35px" src="https://organize.mlh.io/assets/logos/mlh-logo-color-d580e72af0779d58dca423a1f6646393209c874361afcbd12cf148ed72d27a1c.svg"/> </a>
+- 🌱 I’m currently learning Web Developement Stuff. <a href="https://reactjs.org/docs/create-a-new-react-app.html"><img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> </a> -->
+- 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships. 
 - 😄 Pronouns: He/Him
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
