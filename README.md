@@ -5,7 +5,10 @@
 
 <p align=center> <a href="https://durgeshmeena.github.io/" target="_blank"> <img  src="https://user-images.githubusercontent.com/58581435/137250955-d7c5eaa5-12d7-4730-b1d8-ee71a5c62659.gif" width="80%"/> </a> </p>
 <p align="center">
-  <!-- ![](https://komarev.com/ghpvc/?username=durgeshmeena) -->
+  
+<!--   <img src="https://komarev.com/ghpvc/?username=durgeshmeena&label=Profile%20Views&color=blue" alt="durgeshmeena" />
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat) -->
+<!--   ![](https://komarev.com/ghpvc/?username=durgeshmeena) -->
   <!-- <img src="https://komarev.com/ghpvc/?username=durgeshmeena" />  -->
   <!-- <img src="https://badges.pufler.dev/commits/monthly/durgeshmeena?logo=git" />   -->
   <!-- <img src="https://badges.pufler.dev/repos/durgeshmeena?logo=gitbook"/>
@@ -40,8 +43,8 @@
 <br>
 
 
-<!-- - 🔭 I’m currently exploring Hackathons. <a href="https://mlh.io/events"> <img style="padding:5px;" align="center" alt="MLH" width="35px" src="https://organize.mlh.io/assets/logos/mlh-logo-color-d580e72af0779d58dca423a1f6646393209c874361afcbd12cf148ed72d27a1c.svg"/> </a>
-- 🌱 I’m currently learning Web Developement Stuff. <a href="https://reactjs.org/docs/create-a-new-react-app.html"><img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> </a> -->
+<!-- - 🔭 I’m currently exploring Hackathons. <a href="https://mlh.io/events"> <img style="padding:5px;" align="center" alt="MLH" width="35px" src="https://organize.mlh.io/assets/logos/mlh-logo-color-d580e72af0779d58dca423a1f6646393209c874361afcbd12cf148ed72d27a1c.svg"/> </a> -->
+<!-- - 🌱 I’m currently learning Web Developement Stuff. <a href="https://reactjs.org/docs/create-a-new-react-app.html"><img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> </a> -->
 - 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships. 
 - 😄 Pronouns: He/Him
 <!-- - 💬 Ask me about ... -->
@@ -57,7 +60,7 @@
   <img width=44% alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&hide=html,css,scss,less,jupyter%20notebook&theme=onedark" />
 </p>
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=durgeshmeena&theme=redical">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=durgeshmeena&theme=redical">
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmeena&layout=compact&langs_count=8&hide=css,scss,less,ejs&exclude_repo=CompreFace,lightvue,mattermost-webapp,mattermost-server,first-contributions&theme=onedark) -->
